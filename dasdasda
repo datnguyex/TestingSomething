@@ -1,0 +1,54 @@
+[33mcommit 54dae1901c92c9ff2f6078fc58dddac26807e3b4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: datnguyex <nnguyendat72@gmail.com>
+Date:   Tue Jan 21 15:35:25 2025 +0700
+
+    add text4.txt into gitignore
+
+[33mcommit 3472fcdfb902ee9f2f2f04e25d77ff1a8808efe1[m
+Merge: 8cfeea6 f77c2f3
+Author: datnguyex <nnguyendat72@gmail.com>
+Date:   Tue Jan 21 15:32:26 2025 +0700
+
+    Merge branch 'main' of https://github.com/datnguyex/TestingSomething
+
+[33mcommit 8cfeea6e8790d0c7a077519986361afbd781ac6a[m
+Author: datnguyex <nnguyendat72@gmail.com>
+Date:   Tue Jan 21 15:25:05 2025 +0700
+
+    create file text3.txt
+
+[33mcommit 3ac400ead099591da4dcabb153f0d3292a8ed99a[m
+Author: datnguyex <nnguyendat72@gmail.com>
+Date:   Tue Jan 21 15:23:05 2025 +0700
+
+    reset to 2390376ad3a1d65c23aa5b391de056e2cc3f9b28
+
+[33mcommit f77c2f374b0f5ef89d706c77b1ba4b1b6614f93a[m
+Author: datnguyex <nnguyendat72@gmail.com>
+Date:   Mon Jan 20 17:35:16 2025 +0700
+
+    create text3
+
+[33mcommit 2a1ef8c0fd3f791c93b04d46b1e3cdc07894a8c5[m
+Author: datnguyex <nnguyendat72@gmail.com>
+Date:   Mon Jan 20 16:38:12 2025 +0700
+
+    not allowed to follow text 2
+
+[33mcommit c21606153076812cab536574967500bc9d847aad[m
+Author: datnguyex <nnguyendat72@gmail.com>
+Date:   Mon Jan 20 16:35:01 2025 +0700
+
+    add file text2.txt
+
+[33mcommit ae58bc42648a884e778fef6438d662a0c6d768ea[m
+Author: datnguyex <nnguyendat72@gmail.com>
+Date:   Mon Jan 20 16:31:26 2025 +0700
+
+    add file text1 to gitignore
+
+[33mcommit 2390376ad3a1d65c23aa5b391de056e2cc3f9b28[m
+Author: datnguyex <161447598+datnguyex@users.noreply.github.com>
+Date:   Mon Jan 20 16:21:19 2025 +0700
+
+    Initial commit
